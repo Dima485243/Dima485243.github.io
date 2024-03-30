@@ -1,0 +1,128 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html, body {
+	height: 100%;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.first {
+ width: 100%;
+ height: 100%;
+ background: url(../img/img.jpg);
+ background-size: cover;
+ color: white;
+}
+
+.a {
+	text-align: center;
+	padding: 80px;
+	color: white;
+	font-size: 22px;
+}
+
+.first-line {
+	margin-top: 15%;
+ opacity: 0.5;
+ font-size: 25px;
+ font-weight: bold;
+ text-transform: uppercase;
+}
+
+.second-line {
+ font-size: 64px;
+ text-transform: uppercase;
+ font-weight: bold;
+
+}
+
+.third-line {
+	font-size: 20px;
+}
+
+.text-container {
+	margin-left: 15%;
+	margin-top: 15%;
+  width: 40%;
+}
+
+.second {
+	width: 100%;
+	height: 100%;
+}
+
+.gallery-container {
+	width: 60%;
+	margin: auto;
+	
+}
+
+
+.gallery-text {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.gallery-head {
+	font-size: 40px;
+}
+
+.gallery-p {
+	font-size: 18px;
+}
+
+.img {
+	width: 100%;
+    display: flex;
+    
+}
+
+.img1 {
+width: 60%;
+}
+
+.img5 {
+	margin-left: 20px;
+}
+
+.img2 {
+	margin-bottom: 20px;
+}
+
+.third {
+ width: 100%;
+ height: 40%;
+ background: url(../img/img6.jpg);
+ background-size: cover;
+ color: white;
+}
+
+.img6 {
+	width: 100%;
+}
+
+.img7 {
+	width: 100%;
+	height: 100%;
+}
+.d {
+	text-align: center;
+	color: white;
+	font-size: 22px;
+
+
+}
+
+.i {
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	padding: 80px;
+}
